@@ -1,0 +1,21 @@
+{
+  "name": "loading-comp",
+  "version": "1.0.0",
+  "description": "My beautiful Nuxt.js project",
+  "author": "Leigh Dinaya",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "vue-lottie": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
