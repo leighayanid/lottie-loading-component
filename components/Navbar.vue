@@ -6,13 +6,9 @@
   </div>
 </template>
 
-<script>
-export default {};
-</script>
-
 <style scoped>
 .navbar {
-  background: lightskyblue;
+  background: #0089a7;
   width: 100%;
   padding: 1rem;
   text-align: center;
@@ -24,10 +20,11 @@ export default {};
   text-decoration: none;
   color: white;
   margin-right: 1rem;
+  text-transform: uppercase;
 }
 
 .nuxt-link-exact-active {
-  border-bottom: 1px solid black;
-  padding-bottom: 5px;
+  border-bottom: 2px solid black;
+  padding-bottom: 8px;
 }
 </style>
